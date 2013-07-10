@@ -19,7 +19,7 @@ A Clojure library designed to interface with USPS's outdated API.
   usps-user-id)
 ```
 
-Returns the validated address, or an error if the address cannot be found.
+Returns the validated address; returns nil if USPS reports an error.
 
 ## License
 
