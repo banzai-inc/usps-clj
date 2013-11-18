@@ -1,4 +1,4 @@
-(defproject usps-clj "0.1.0"
+(defproject usps-clj "0.1.1"
   :description "Clojure interface to USPS's outdated API."
   :url "https://github.com/banzai-inc/usps-clj"
   :license {:name "Eclipse Public License"
